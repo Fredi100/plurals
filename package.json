@@ -1,0 +1,14 @@
+{
+  "name": "plurals",
+  "version": "0.1.0",
+  "description": "A totally serious npm package for pluralized data-structures",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfred Emsenhuber (Fredi100)",
+  "license": "GPLv3",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
